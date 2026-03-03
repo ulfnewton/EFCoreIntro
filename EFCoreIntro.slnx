@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/README.md" />
+  </Folder>
   <Project Path="EFCoreIntro/EFCoreIntro.csproj" />
 </Solution>
